@@ -1,0 +1,6 @@
+debug/
+target/
+inputs/
+
+**/*.rs.bk
+*.pdb
